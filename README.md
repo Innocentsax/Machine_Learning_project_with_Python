@@ -1,6 +1,8 @@
 ## Machine Learning Project Using JUPYTER NOOTBOOK
 #### (c) These readme explains the Steps i followed in this project.
 ___
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+___
 >1. Import the Data
 >2. Clean the Data
 >3. Split the Data into training/Test Set
