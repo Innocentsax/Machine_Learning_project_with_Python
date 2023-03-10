@@ -1,4 +1,4 @@
-## Machine Learning Project
+## Machine Learning Project Using JUPYTER NOOTBOOK
 #### (c) These readme explains the Steps i followed in this project.
 ___
 >1. Import the Data
